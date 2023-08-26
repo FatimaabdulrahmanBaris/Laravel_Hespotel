@@ -1,2 +1,2 @@
-# Laravel_Hespotel
+# Laravel_Hospital
 Control panel to add doctors and book appointments
